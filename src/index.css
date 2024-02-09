@@ -7,7 +7,7 @@
     font-family: "Jouzu", "sans-serif";
     font-weight: 700;
     font-display: swap;
-    src: url("./jouzu.otf") format("otf")
+    src: url("./assets/jouzu.otf") format("otf");
   }
 }
 
