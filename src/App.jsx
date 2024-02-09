@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <div className='flex justify-center items-center'>
-        <img src={plushplanetjpg} className="w-1/3 h-1/2 rounded-md border border-white" alt="Plush Planet logo" />
+        <img src={plushplanetjpg} className="lg:w-1/3 lg:h-1/2 rounded-md border border-white" alt="Plush Planet logo" />
       </div>
       <h1 className='mt-8 font-bold text-6xl'>Plush Planet</h1>
     </>
