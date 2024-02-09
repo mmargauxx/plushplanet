@@ -2,14 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer base {
-  @font-face {
+@font-face {
     font-family: "Jouzu", "sans-serif";
     font-weight: 700;
     font-display: swap;
     src: url("./assets/jouzu.otf") format("otf");
-  }
 }
+
 
 :root {
   font-family: 'Jouzu', Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
